@@ -1,16 +1,16 @@
 # Cercetare CLARA
 
-Zonă publică în limba română pentru diseminarea rezultatelor de cercetare ale proiectului CLARA.
+Spațiu public în limba română pentru diseminarea rezultatelor de cercetare ale proiectului CLARA.
 
 ## Proiect
 
-CLARA înseamnă **CyberSecurity Learning And Response Agent**. Proiectul dezvoltă o arhitectură de securitate cibernetică asistată de inteligență artificială, orientată către detecție, analiză, explicație, învățare și sprijin pentru răspuns. Materialele publicate expres în acest repository sunt diseminate ca artefacte publice de cercetare open-source sub licența Apache License 2.0, dacă un fișier nu precizează altfel. Această licență publică nu include materialele CLARA nepublice și nici operele protejate prin drepturi de autor proprietare ale AI STM LEARNING S.R.L. care nu sunt incluse expres aici.
+Proiectul CLARA - acronim de la **CyberSecurity Learning And Response Agent** - dezvoltă o arhitectură de securitate cibernetică asistată de inteligență artificială, orientată către detecție, analiză, explicare, învățare și sprijin pentru răspuns. Materialele publicate explicit în acest depozit sunt diseminate ca rezultate publice de cercetare open-source sub licența Apache License 2.0, dacă un fișier nu precizează altfel. Această licență publică nu se extinde asupra materialelor CLARA nepublice și nici asupra operelor proprietare protejate prin drepturi de autor ale AI STM LEARNING S.R.L. care nu sunt incluse explicit aici.
 
-Materialele publice din acest repository sintetizează progresul tehnic și de cercetare fără a publica secrete operaționale, seturi de date private, dovezi interne, credențiale, artefacte proprietare de implementare sau detalii confidențiale de implementare.
+Materialele publice din acest depozit sintetizează progresul tehnic și de cercetare fără a publica secrete operaționale, seturi de date private, dovezi interne, credențiale, artefacte proprietare de implementare sau detalii confidențiale.
 
-CLARA este poziționat ca sistem modular și auditabil, construit în jurul unui nucleu specializat bazat pe modele de limbaj, agenți specializați pentru securitate cibernetică, utilizare controlată a uneltelor, execuție trasabilă și active de cercetare pentru evaluare reproductibilă.
+CLARA este proiectat ca sistem modular și auditabil. Arhitectura este construită în jurul unui nucleu specializat bazat pe modele de limbaj, al unor agenți dedicați securității cibernetice, al utilizării controlate a uneltelor, al execuției trasabile și al unor resurse de cercetare care permit evaluări repetabile și comparabile.
 
-## Finanțare Și Referințe De Proiect
+## Finanțare și referințe de proiect
 
 | Câmp | Valoare |
 | --- | --- |
@@ -19,7 +19,7 @@ CLARA este poziționat ca sistem modular și auditabil, construit în jurul unui
 | Obiectiv specific | RSO1.1. Dezvoltarea și sporirea capacităților de cercetare și inovare și adoptarea tehnologiilor avansate |
 | Acțiune | Acțiunea 1.1. Sprijin pentru sectorul privat și pentru colaborarea între actorii din sistemul public și mediul de afaceri în domeniul CDI |
 | Apel | `PCIDIF/155/PCIDIF_P1/OP1/RSO1.1/PCIDIF_A1` |
-| Titlu proiect | CLARA (CyberSecurity Learning And Response Agent) - Soluție Inovativă de Securitate Cibernetică |
+| Titlu proiect | CLARA (CyberSecurity Learning And Response Agent) - Soluție inovatoare de securitate cibernetică |
 | Cod SMIS | `334596` |
 | Contract de finanțare | `390016/28.08.2025` |
 | Perioadă de implementare | `29.08.2025 - 28.08.2027` |
@@ -28,35 +28,35 @@ CLARA este poziționat ca sistem modular și auditabil, construit în jurul unui
 
 ## Obiectiv
 
-Obiectivul CLARA este cercetarea, proiectarea și validarea unui sistem de securitate cibernetică asistat de AI, capabil să sprijine operatorii umani în înțelegerea evenimentelor de securitate, corelarea evidențelor, recomandarea acțiunilor de răspuns și învățarea din feedback controlat, păstrând în același timp auditabilitatea, confidențialitatea și constrângerile de securitate prin design.
+Obiectivul CLARA este cercetarea, proiectarea și validarea unui sistem de securitate cibernetică asistat de inteligență artificială. Sistemul urmărește să ajute operatorii umani să înțeleagă evenimente de securitate, să coreleze dovezi, să primească recomandări de răspuns și să folosească feedback controlat, cu păstrarea auditabilității, confidențialității și securității prin proiectare.
 
-## Direcții Principale De Cercetare
+## Direcții principale de cercetare
 
-- **LLM și SLM în securitate cibernetică:** interpretare în limbaj natural, triere incidente, explicații, sumarizare și generare de rapoarte.
-- **Orchestrare multi-agent pentru cybersecurity:** CLARA Core coordonează agenți specializați pentru audit, monitorizare rețea, analiză risc browser și fluxuri defensive viitoare.
-- **Utilizare controlată a uneltelor:** allowlist, validare de parametri, sandboxing, trasabilitate și reducerea riscurilor de tool-injection.
-- **Ancorare în cunoaștere:** cunoaștere structurată de securitate, mapări de tip MITRE ATT&CK, reprezentări de tip STIX, RAG/GraphRAG și explicații legate de evidențe.
-- **Învățare cu protecția datelor și execuție pe edge:** rulare locală, minimizarea fluxurilor de date sensibile, adaptare de tip LoRA, concepte de învățare federată și evaluare cu protecția confidențialității.
-- **Date sintetice de securitate cibernetică:** loguri, evenimente de rețea, înregistrări de tip threat intelligence și episoade de atac pentru testare repetabilă fără date operaționale reale.
-- **Evaluare reproductibilă:** evaluation harness, eval records, trasabilitate pe model/versiune, prompturi, tool-calls și rapoarte tehnice comparabile.
-- **Execuție distribuită și auditabilă:** aliniere de cercetare cu orchestrare edge, audit imuabil și validare adversarială controlată.
+- **Modele LLM și SLM în securitate cibernetică:** interpretare în limbaj natural, trierea incidentelor, explicații, sinteze și generare de rapoarte.
+- **Orchestrare multi-agent pentru securitate cibernetică:** CLARA Core coordonează agenți specializați pentru audit, monitorizare de rețea, analiză de risc în browser și fluxuri defensive viitoare.
+- **Utilizarea controlată a uneltelor:** liste de permisiuni, validarea parametrilor, sandboxing, trasabilitate și reducerea riscurilor de injectare prin unelte.
+- **Ancorare în cunoaștere:** cunoaștere structurată de securitate, mapări de tip MITRE ATT&CK, reprezentări de tip STIX, RAG/GraphRAG și explicații legate de dovezi.
+- **Învățare cu protecția datelor și execuție locală sau edge:** rulare locală, minimizarea fluxurilor de date sensibile, adaptare de tip LoRA, concepte de învățare federată și evaluare cu protecția confidențialității.
+- **Date sintetice pentru securitate cibernetică:** jurnale, evenimente de rețea, indicatori sintetici de amenințare și episoade de atac pentru testare repetabilă fără date operaționale reale.
+- **Evaluare repetabilă:** cadru de evaluare, înregistrări de evaluare, trasabilitate pe model și versiune, prompturi, apeluri către unelte și rapoarte tehnice comparabile.
+- **Execuție distribuită și auditabilă:** cercetare privind orchestrarea edge, auditul imuabil și validarea adversarială controlată.
 
-## Componente Principale Ale Proiectului
+## Componente principale ale proiectului
 
 | Componentă | Rol |
 | --- | --- |
 | CLARA Core | Interpretează intenția utilizatorului, planifică, rutează sarcini, agregă rezultate și produce răspunsuri explicative. |
-| Agenți specializați | Execută sarcini focalizate de securitate: audit, analiză rețea, verificări risc browser, triere sau raportare. |
-| Tool Registry | Controlează ce unelte pot fi apelate, cu ce parametri, cu logare și politici de execuție. |
-| Mesagerie internă | Standardizează cereri, răspunsuri, evenimente, severitate, evidențe, correlation ID și raportarea erorilor. |
-| Strat de audit și trace | Înregistrează decizii de rutare, apeluri de tool, rezultate de agenți și răspunsuri finale. |
-| Strat de cunoaștere | Ancorează răspunsurile în taxonomii cyber, cunoaștere despre amenințări și referințe aprobate. |
-| Pachet de date sintetice | Oferă scenarii cyber repetabile pentru testare, validare și evaluare de modele. |
-| Evaluation harness | Sprijină măsurarea reproductibilă a comportamentului modelelor, agenților și fluxurilor. |
+| Agenți specializați | Execută sarcini delimitate de securitate: audit, analiză de rețea, verificări de risc în browser, triere sau raportare. |
+| Tool Registry | Controlează ce unelte pot fi apelate, cu ce parametri, cu jurnalizare și politici de execuție. |
+| Mesagerie internă | Standardizează cereri, răspunsuri, evenimente, severitate, dovezi, identificatori de corelare și raportarea erorilor. |
+| Strat de audit și trasabilitate | Înregistrează decizii de rutare, apeluri către unelte, rezultate ale agenților și răspunsuri finale. |
+| Strat de cunoaștere | Ancorează răspunsurile în taxonomii de securitate cibernetică, cunoaștere despre amenințări și referințe aprobate. |
+| Pachet de date sintetice | Oferă scenarii de securitate cibernetică repetabile pentru testare, validare și evaluare de modele. |
+| Cadru de evaluare | Sprijină măsurarea repetabilă a comportamentului modelelor, agenților și fluxurilor. |
 | Strat educațional adaptiv | Componentă planificată pentru învățare, ghidaj și transfer de cunoștințe către utilizatori. |
 | Infrastructură de management | Acoperă configurare, monitorizare, control acces și guvernanță operațională. |
 
-## Documente De Arhitectură
+## Documente de arhitectură
 
 | Subiect | Document |
 | --- | --- |
@@ -69,14 +69,14 @@ Obiectivul CLARA este cercetarea, proiectarea și validarea unui sistem de secur
 | [rapoarte/RAPORT_01.md](rapoarte/RAPORT_01.md) | [../en/reports/REPORT_01.md](../en/reports/REPORT_01.md) |
 | [rapoarte/RAPORT_02.md](rapoarte/RAPORT_02.md) | [../en/reports/REPORT_02.md](../en/reports/REPORT_02.md) |
 
-## Copyright Și Licență
+## Copyright și licență
 
 Copyright (c) 2026 AI STM LEARNING S.R.L. și contribuitorii.
 
-Dacă nu se precizează altfel, doar fișierele și materialele publicate expres în acest repository sunt puse la dispoziție sub licența Apache License 2.0. Repository-ul conține sinteze publice și materiale de diseminare.
+Dacă nu se precizează altfel, doar fișierele și materialele publicate explicit în acest depozit sunt puse la dispoziție sub licența Apache License 2.0. Depozitul conține sinteze publice și materiale de diseminare.
 
-Licența Apache License 2.0 nu acordă drepturi asupra materialelor CLARA nepublice și nici asupra operelor protejate prin drepturi de autor proprietare, software-ului, seturilor de date, modelelor, prompturilor, descrierilor de infrastructură, mărcilor, secretelor comerciale, know-how-ului, datelor personale, credențialelor, conținutului terț sau altor elemente de proprietate intelectuală deținute de AI STM LEARNING S.R.L. care nu sunt incluse expres aici.
+Licența Apache License 2.0 nu acordă drepturi asupra materialelor CLARA nepublice și nici asupra operelor proprietare protejate prin drepturi de autor, software-ului, seturilor de date, modelelor, prompturilor, descrierilor de infrastructură, mărcilor, secretelor comerciale, know-how-ului, datelor personale, credențialelor, conținutului terț sau altor elemente de proprietate intelectuală deținute de AI STM LEARNING S.R.L. care nu sunt incluse explicit aici.
 
-## Notă Privind Publicarea
+## Notă privind publicarea
 
-Rapoartele din acest repository sunt sinteze publice de cercetare derivate din rapoarte tehnice ale proiectului. Ele omit intenționat detalii operaționale sensibile, locații interne exacte, credențiale, seturi de date private, dovezi brute, date personale și artefacte de implementare nepublice.
+Rapoartele din acest depozit sunt sinteze publice de cercetare derivate din rapoarte tehnice ale proiectului. Ele omit intenționat detalii operaționale sensibile, locații interne exacte, credențiale, seturi de date private, dovezi brute, date personale și artefacte de implementare nepublice.

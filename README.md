@@ -17,7 +17,7 @@ This repository does not publish operational secrets, private datasets, internal
 
 CLARA - **CyberSecurity Learning And Response Agent** is implemented by **AI STM LEARNING S.R.L.** and is co-financed by the European Union through the **Program Creștere Inteligentă, Digitalizare și Instrumente Financiare 2021-2027 (POCIDIF/PCIDIF)**, Priority 1, Specific Objective RSO1.1, Action 1.1, call `PCIDIF/155/PCIDIF_P1/OP1/RSO1.1/PCIDIF_A1`, financing contract `390016/28.08.2025`, SMIS code `334596`.
 
-Proiect cofinanțat de Uniunea Europeană prin Programul Creștere Inteligentă, Digitalizare și Instrumente Financiare 2021-2027 (POCIDIF/PCIDIF). Pentru informații detaliate despre celelalte programe cofinanțate de Uniunea Europeană, vă invităm să vizitați [www.fonduri-ue.ro](https://www.fonduri-ue.ro).
+Proiectul este cofinanțat de Uniunea Europeană prin Programul Creștere Inteligentă, Digitalizare și Instrumente Financiare 2021-2027 (POCIDIF/PCIDIF). Pentru informații detaliate despre celelalte programe cofinanțate de Uniunea Europeană, vă invităm să vizitați [www.fonduri-ue.ro](https://www.fonduri-ue.ro).
 
 ## Extended Readmes
 
