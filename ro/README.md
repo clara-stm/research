@@ -58,11 +58,21 @@ Obiectivul CLARA este cercetarea, proiectarea și validarea unui sistem de secur
 
 ## Documente de arhitectură
 
+Directorul de arhitectură are propriul index pentru navigare în GitHub:
+[arhitectura/README.md](arhitectura/README.md).
+Indexul echivalent în limba engleză este disponibil la
+[../en/architecture/README.md](../en/architecture/README.md).
+
 | Subiect | Document |
 | --- | --- |
 | Roluri AI principale | [arhitectura/ROLURI_AI.md](arhitectura/ROLURI_AI.md) |
 
 ## Rapoarte
+
+Directorul de rapoarte are propriul index actualizat:
+[rapoarte/README.md](rapoarte/README.md).
+Indexul echivalent în limba engleză este disponibil la
+[../en/reports/README.md](../en/reports/README.md).
 
 | Română | English |
 | --- | --- |

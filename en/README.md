@@ -4,7 +4,7 @@ Public English research-dissemination area for the CLARA project.
 
 ## Project
 
-CLARA means **CyberSecurity Learning And Response Agent**. The project develops an AI-assisted cybersecurity architecture for detection, analysis, explanation, learning, and response support. The public materials expressly published in this repository are disseminated as open-source public research artifacts under the Apache License 2.0, unless a file states otherwise. This public license does not include non-public CLARA materials or proprietary copyrighted works owned by AI STM LEARNING S.R.L. that are not expressly included here.
+CLARA - an acronym for **CyberSecurity Learning And Response Agent** - develops an AI-assisted cybersecurity architecture for detection, analysis, explanation, learning, and response support. The public materials expressly published in this repository are disseminated as open-source public research artifacts under the Apache License 2.0, unless a file states otherwise. This public license does not include non-public CLARA materials or proprietary copyrighted works owned by AI STM LEARNING S.R.L. that are not expressly included here.
 
 The public materials in this repository summarize technical and research progress without publishing operational secrets, private datasets, internal evidence, credentials, proprietary implementation artifacts, or confidential implementation details.
 
@@ -58,11 +58,17 @@ The objective of CLARA is to research, design, and validate an AI-assisted cyber
 
 ## Architecture Documents
 
+The architecture directory has its own index for GitHub browsing:
+[architecture/README.md](architecture/README.md).
+
 | Topic | Document |
 | --- | --- |
 | Main AI roles | [architecture/AI_ROLES.md](architecture/AI_ROLES.md) |
 
 ## Reports
+
+The reports directory has its own current index:
+[reports/README.md](reports/README.md).
 
 | English | Romanian |
 | --- | --- |
