@@ -62,12 +62,14 @@ The extended public presentation is split into language-specific README files.
 | Temă | Română | Engleză |
 | --- | --- | --- |
 | Roluri AI | [ro/arhitectura/ROLURI_AI.md](ro/arhitectura/ROLURI_AI.md) | [en/architecture/AI_ROLES.md](en/architecture/AI_ROLES.md) |
+| Execuție și integrare | [ro/arhitectura/EXECUTION_AND_INTEGRATION.md](ro/arhitectura/EXECUTION_AND_INTEGRATION.md) | [en/architecture/EXECUTION_AND_INTEGRATION.md](en/architecture/EXECUTION_AND_INTEGRATION.md) |
 
 ### EN:
 
 | Topic | English | Romanian |
 | --- | --- | --- |
 | AI roles | [en/architecture/AI_ROLES.md](en/architecture/AI_ROLES.md) | [ro/arhitectura/ROLURI_AI.md](ro/arhitectura/ROLURI_AI.md) |
+| Execution and integration | [en/architecture/EXECUTION_AND_INTEGRATION.md](en/architecture/EXECUTION_AND_INTEGRATION.md) | [ro/arhitectura/EXECUTION_AND_INTEGRATION.md](ro/arhitectura/EXECUTION_AND_INTEGRATION.md) |
 
 ## Public Research Reports
 

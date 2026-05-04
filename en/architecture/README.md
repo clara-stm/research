@@ -11,6 +11,7 @@ implementation details.
 | Document | Summary |
 | --- | --- |
 | [AI_ROLES.md](AI_ROLES.md) | Explains the four main AI roles in the public CLARA architecture: CLARA Core, Audit Agent, Network Agent, and Browser / URL Risk Agent. |
+| [EXECUTION_AND_INTEGRATION.md](EXECUTION_AND_INTEGRATION.md) | Reviews execution and integration architecture: framework/app-store packaging, Ratio1 execution, RedMesh partner integration, MISP, and Neo4j. |
 
 ## Navigation
 

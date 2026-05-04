@@ -66,6 +66,7 @@ Indexul echivalent în limba engleză este disponibil la
 | Subiect | Document |
 | --- | --- |
 | Roluri AI principale | [arhitectura/ROLURI_AI.md](arhitectura/ROLURI_AI.md) |
+| Execuție și integrare | [arhitectura/EXECUTION_AND_INTEGRATION.md](arhitectura/EXECUTION_AND_INTEGRATION.md) |
 
 ## Rapoarte
 

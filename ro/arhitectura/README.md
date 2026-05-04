@@ -11,6 +11,7 @@ sau detalii de implementare nepublice.
 | Document | Sumar |
 | --- | --- |
 | [ROLURI_AI.md](ROLURI_AI.md) | Explică cele patru roluri AI principale din arhitectura publică CLARA: CLARA Core, Agentul de Audit, Agentul de Rețea și Agentul de Risc Browser / URL. |
+| [EXECUTION_AND_INTEGRATION.md](EXECUTION_AND_INTEGRATION.md) | Analizează arhitectura de execuție și integrare: ambalare pentru cadre și magazine de aplicații, execuție pe Ratio1, integrare RedMesh, MISP și Neo4j. |
 
 ## Navigare
 

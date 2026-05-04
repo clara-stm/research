@@ -64,6 +64,7 @@ The architecture directory has its own index for GitHub browsing:
 | Topic | Document |
 | --- | --- |
 | Main AI roles | [architecture/AI_ROLES.md](architecture/AI_ROLES.md) |
+| Execution and integration | [architecture/EXECUTION_AND_INTEGRATION.md](architecture/EXECUTION_AND_INTEGRATION.md) |
 
 ## Reports
 
