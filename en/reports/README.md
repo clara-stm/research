@@ -9,6 +9,10 @@ The reports intentionally omit sensitive operational details, private data,
 credentials, raw evidence, exact internal storage locations, and non-public
 implementation artifacts.
 
+## Project Evolution Notice
+
+Materialele publicate reflectă starea proiectului CLARA și a procesului de cercetare-dezvoltare-inovare la momentul publicării rapoartelor sau al disponibilizării informațiilor online. Pe parcursul evoluției proiectului pot surveni modificări substanțiale, inclusiv schimbări arhitecturale, ajustări ale componentelor tehnice, ale priorităților de integrare sau ale modului de livrare, în funcție de rezultatele cercetării, validării, feedbackului operațional și în special datorită obiectivului de a obține o aliniere produs-piață cât mai solidă.
+
 ## Reports
 
 | Report | Source | Summary |

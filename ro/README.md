@@ -10,6 +10,10 @@ Materialele publice din acest depozit sintetizează progresul tehnic și de cerc
 
 CLARA este proiectat ca sistem modular și auditabil. Arhitectura este construită în jurul unui nucleu specializat bazat pe modele de limbaj, al unor agenți dedicați securității cibernetice, al utilizării controlate a uneltelor, al execuției trasabile și al unor resurse de cercetare care permit evaluări repetabile și comparabile.
 
+## Notă privind evoluția proiectului
+
+Materialele publicate reflectă starea proiectului CLARA și a procesului de cercetare-dezvoltare-inovare la momentul publicării rapoartelor sau al disponibilizării informațiilor online. Pe parcursul evoluției proiectului pot surveni modificări substanțiale, inclusiv schimbări arhitecturale, ajustări ale componentelor tehnice, ale priorităților de integrare sau ale modului de livrare, în funcție de rezultatele cercetării, validării, feedbackului operațional și în special datorită obiectivului de a obține o aliniere produs-piață cât mai solidă.
+
 ## Finanțare și referințe de proiect
 
 | Câmp | Valoare |

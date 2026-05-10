@@ -6,6 +6,10 @@ for public dissemination. They do not expose internal prompts, private datasets,
 credentials, infrastructure identifiers, operational procedures, or non-public
 implementation details.
 
+## Project Evolution Notice
+
+Materialele publicate reflectă starea proiectului CLARA și a procesului de cercetare-dezvoltare-inovare la momentul publicării rapoartelor sau al disponibilizării informațiilor online. Pe parcursul evoluției proiectului pot surveni modificări substanțiale, inclusiv schimbări arhitecturale, ajustări ale componentelor tehnice, ale priorităților de integrare sau ale modului de livrare, în funcție de rezultatele cercetării, validării, feedbackului operațional și în special datorită obiectivului de a obține o aliniere produs-piață cât mai solidă.
+
 ## Documents
 
 | Document | Summary |

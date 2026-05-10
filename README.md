@@ -22,6 +22,16 @@ This repository contains public summaries and research-dissemination materials o
 
 This repository does not publish operational secrets, private datasets, internal evidence, credentials, raw logs, proprietary implementation artifacts, or confidential implementation details.
 
+## Project Evolution Notice
+
+### RO:
+
+Materialele publicate reflectă starea proiectului CLARA și a procesului de cercetare-dezvoltare-inovare la momentul publicării rapoartelor sau al disponibilizării informațiilor online. Pe parcursul evoluției proiectului pot surveni modificări substanțiale, inclusiv schimbări arhitecturale, ajustări ale componentelor tehnice, ale priorităților de integrare sau ale modului de livrare, în funcție de rezultatele cercetării, validării, feedbackului operațional și în special datorită obiectivului de a obține o aliniere produs-piață cât mai solidă.
+
+### EN:
+
+The published materials reflect the state of the CLARA project and of the research, development, and innovation process at the time when reports are published or online information is made available. As the project evolves, substantial changes may occur, including architectural changes, adjustments to technical components, integration priorities, or delivery approach, depending on research results, validation, operational feedback, and especially the objective of achieving stronger product-market fit.
+
 ## European Funding Visibility
 
 <p>

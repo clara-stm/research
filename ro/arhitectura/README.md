@@ -6,6 +6,10 @@ nivel potrivit pentru diseminare publică. Ele nu publică prompturi interne, se
 date private, credențiale, identificatori de infrastructură, proceduri operaționale
 sau detalii de implementare nepublice.
 
+## Notă privind evoluția proiectului
+
+Materialele publicate reflectă starea proiectului CLARA și a procesului de cercetare-dezvoltare-inovare la momentul publicării rapoartelor sau al disponibilizării informațiilor online. Pe parcursul evoluției proiectului pot surveni modificări substanțiale, inclusiv schimbări arhitecturale, ajustări ale componentelor tehnice, ale priorităților de integrare sau ale modului de livrare, în funcție de rezultatele cercetării, validării, feedbackului operațional și în special datorită obiectivului de a obține o aliniere produs-piață cât mai solidă.
+
 ## Documente
 
 | Document | Sumar |

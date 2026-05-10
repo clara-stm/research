@@ -8,6 +8,10 @@ metodologia de evaluare și rezultatele publicabile ale cercetării.
 Rapoartele omit intenționat detalii operaționale sensibile, date private, credențiale,
 dovezi brute, locații interne exacte și artefacte de implementare nepublice.
 
+## Notă privind evoluția proiectului
+
+Materialele publicate reflectă starea proiectului CLARA și a procesului de cercetare-dezvoltare-inovare la momentul publicării rapoartelor sau al disponibilizării informațiilor online. Pe parcursul evoluției proiectului pot surveni modificări substanțiale, inclusiv schimbări arhitecturale, ajustări ale componentelor tehnice, ale priorităților de integrare sau ale modului de livrare, în funcție de rezultatele cercetării, validării, feedbackului operațional și în special datorită obiectivului de a obține o aliniere produs-piață cât mai solidă.
+
 ## Rapoarte
 
 | Raport | Sursă | Sumar |
